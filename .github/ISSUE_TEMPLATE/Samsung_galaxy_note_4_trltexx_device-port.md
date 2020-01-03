@@ -5,7 +5,7 @@ about: Template for tracking progress of device ports
 
 Tree: <!-- halium-5.1 or halium-7.1 -->
 
-- [ ] Create manifest <!-- Link to the manifest, contained in a pull request to https://github.com/Halium/halium-devices -->
+- [X] Create manifest <!-- Link to the manifest, contained in a pull request to https://github.com/Halium/halium-devices -->
 - [ ] Boot image and system image build successfully
 - [ ] Device boots into rootfs, `usb: Manufacturer: GNU/Linux Device` appears in `dmesg` on host.
 - [ ] LXC container starts and does not crash
